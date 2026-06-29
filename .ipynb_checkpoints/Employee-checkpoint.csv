@@ -1,0 +1,9 @@
+,Emp_ID,Name,Department,Age,Montly Salary,City,Experience,Bonus,Total Salary,Manager,Location
+0,101,Rahul,IT,25,50000,NEW DELHI,2,5000.0,55000.0,Anil,Bangalore
+1,102,Priya,HR,28,45000,MUMBAI,4,4500.0,49500.0,Kavya,Hyderabad
+2,103,Amit,IT,30,60000,NEW DELHI,6,6000.0,66000.0,Anil,Bangalore
+3,104,Sneha,Sales,24,40000,CHENNAI,1,4000.0,44000.0,Rohit,Chennai
+4,105,Arjun,HR,29,52000,HYDERABAD,5,5200.0,57200.0,Kavya,Hyderabad
+5,106,Kiran,Sales,31,48000,MUMBAI,7,4800.0,52800.0,Rohit,Chennai
+6,107,Pooja,IT,27,65000,NEW DELHI,3,6500.0,71500.0,Anil,Bangalore
+7,108,Vijay,HR,26,47000,CHENNAI,2,4700.0,51700.0,Kavya,Hyderabad
